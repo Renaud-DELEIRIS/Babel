@@ -1,0 +1,16 @@
+$HOME/
+.idea/
+.vscode/
+build/
+cmake-build-debug/
+CMakeFiles/
+.qmake.stash
+babel_gui
+cmake_install.cmake
+bin/qt.conf
+CMakeCache.txt
+Testing/Temporary/LastTest.log
+*.db
+babel_client
+Makefile
+moc*.cpp
